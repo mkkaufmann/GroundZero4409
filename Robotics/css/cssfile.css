@@ -614,6 +614,11 @@ html {
     width: 40%;
 }
 
+.carousel-item.active>img {
+    margin: auto;
+    width: 40%;
+}
+
 .carousel-caption {
     position: relative;
     top: 5px;
